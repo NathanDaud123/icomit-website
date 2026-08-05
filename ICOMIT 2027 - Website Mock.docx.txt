@@ -1,0 +1,589 @@
+﻿ICOMIT 2027
+
+
+The 6th International Conference on Multidisciplinary Applications of Information Technology
+
+
+https://icomit.ub.ac.id/event/icomit27
+
+
+
+
+Theme: Engineering Human-Centered Computing Solutions for Inclusive and Sustainable Digital Transformation
+
+
+
+
+HOME
+
+
+Introduction / WELCOME MESSAGE FROM THE CONFERENCE CHAIR
+
+
+Welcome to ICOMIT 2027, the 6th International Conference on Multidisciplinary Applications of Information Technology, organized by the Faculty of Computer Science, Universitas Brawijaya, Malang, Indonesia. The conference will be held in Malang, Indonesia, on 28–29 July 2027.
+
+
+About
+ICOMIT 2027 is an international forum that brings together researchers, academicians, students, industry professionals, government representatives, and technology practitioners to present and discuss recent advances in computing and information technology.
+Under the theme “Engineering Human-Centered Computing Solutions for Inclusive and Sustainable Digital Transformation,” ICOMIT 2027 emphasizes the development and application of computing technologies that are innovative, secure, reliable, accessible, and responsive to real-world needs.
+The conference welcomes original research and practical contributions in software engineering, information systems, computer networks, cybersecurity, cloud and edge computing, the Internet of Things, embedded and cyber-physical systems, human–computer interaction, multimedia, computing education, digital governance, and applied computing.
+ICOMIT 2027 provides opportunities for participants to exchange knowledge, receive scholarly feedback, build international research networks, and establish collaborations among academia, industry, government, and society.
+Through keynote sessions, technical presentations, academic discussions, and professional networking, ICOMIT 2027 seeks to connect scientific advancement with practical implementation and meaningful societal impact.
+We invite researchers, practitioners, professionals, and students from around the world to join us in Malang, Indonesia, on 28–29 July 2027, and contribute to the advancement of responsible, inclusive, and sustainable computing technologies.
+
+
+
+
+
+
+COMMITEE- Tentative
+
+
+Organizing Committee
+
+
+Patron
+Widodo, Universitas Brawijaya, INDONESIA
+
+
+Steering Committee
+Álvaro Manuel Reis da Rocha, ISEG University of Lisbon, PORTUGAL
+Anand Nayyar, Duy Tan University, VIETNAM
+Anton Satria Prabuwono, King Abdulaziz University, SAUDI ARABIA
+Chikamune Wada, Kyushu Institute of Technology, JAPAN
+Elhadj Benkhelifa, University of Staffordshire, UNITED KINGDOM
+Fitri Utaminingrum, Universitas Brawijaya, INDONESIA
+Jasni Mohd Zain, Universiti Teknologi MARA, MALAYSIA
+Jemal H Abawajy, Deakin University, AUSTRALIA
+Maizatul Akmar Ismail, Universiti Malaya, MALAYSIA
+Mohd Shahrizal Sunar        , Universiti Teknologi Malaysia, MALAYSIA
+Nobuo Funabiki, Okayama University, JAPAN
+Por Lip Yee, Universiti Malaya, MALAYSIA
+Taufik, Cal Poly State University, USA
+Tri Astoto Kurniawan, Universitas Brawijaya, INDONESIA
+Wayan Firdaus Mahmudy, Universitas Brawijaya, INDONESIA
+
+
+General Chair
+Diva Kurnianingtyas, Universitas Brawijaya, INDONESIA
+Lailil Muflikhah, Universitas Brawijaya, INDONESIA
+
+
+Program Committee Chair
+M. Ali Fauzi, Universitas Brawijaya, INDONESIA
+Yousef Farhaoui, Moulay Ismail University, MOROCCO
+Wan Azani Mustafa, Universiti Malaysia Perlis, MALAYSIA
+
+
+International Liaison
+Tutut Herawan, Universiti Malaya, MALAYSIA
+Haruna Chiroma, University of Hafr Al Batin, SAUDI ARABIA
+Sharifah Sakinah Syed Ahmad, Universiti Teknikal Malaysia Melaka, MALAYSIA
+Hideyuki Sawada, Waseda University, JAPAN
+
+
+Organizing Committee
+Anis Rahmawati Amna, Universitas Brawijaya, INDONESIA
+Agus Wahyu Widodo, Universitas Brawijaya, INDONESIA
+Muh. Arif Rahman, Universitas Brawijaya, INDONESIA
+Bayu Rahayudi, Universitas Brawijaya, INDONESIA
+Dian Eka Ratnawati, Universitas Brawijaya, INDONESIA
+Ismiarta Aknuranda, Universitas Brawijaya, INDONESIA
+Arief Andy Soebroto, Universitas Brawijaya, INDONESIA
+
+
+Program Committee
+
+
+
+
+
+
+We will invite 100 people to be in this committee
+
+
+CALL 
+
+
+General Tracks
+
+
+Track 1: Intelligent Computing, Software, and Digital Infrastructure
+This track covers research and innovation related to intelligent computing, software engineering, computing systems, and the development of secure, reliable, and scalable digital infrastructure.
+
+
+Topics include, but are not limited to:
+* Artificial intelligence systems and intelligent applications
+* Knowledge-based and expert systems
+* Intelligent agents and multi-agent systems
+* Computational intelligence
+* Evolutionary computation and optimization
+* Explainable, trustworthy, and responsible AI
+* AI engineering and MLOps
+* Edge AI and embedded intelligence
+* Software engineering and software architecture
+* Requirements engineering, software testing, and software quality
+* Computer networks and communication systems
+* Cloud, edge, fog, and distributed computing
+* Cybersecurity, privacy, and digital trust
+* Internet of Things and sensor networks
+* Embedded and real-time systems
+* Robotics and autonomous systems
+* Cyber-physical systems
+* High-performance and parallel computing
+* Hardware–software integration
+* Reliable, resilient, and energy-efficient computing
+
+
+Track 2: Information Systems, Human-Centered AI, and Digital Transformation
+This track focuses on the design, implementation, governance, adoption, and evaluation of information systems, artificial intelligence, and digital technologies that support individuals, organizations, businesses, governments, education, and communities.
+
+
+Topics include, but are not limited to:
+* Information systems development and evaluation
+* Enterprise architecture and systems integration
+* Business process management
+* IT governance and technology management
+* Digital transformation and technology adoption
+* Decision support and organizational intelligence
+* Business intelligence and analytics
+* Human–AI interaction
+* Human-centered and explainable AI
+* AI adoption and organizational readiness
+* AI governance, ethics, and accountability
+* Human–computer interaction
+* User experience and usability
+* Accessibility and inclusive technologies
+* Multimedia and interactive systems
+* Computer graphics and visualization
+* Games and serious games
+* Virtual, augmented, and mixed reality
+* Educational technology and intelligent learning systems
+* Computing and informatics education
+* Digital platforms, ecosystems, and public services
+
+
+Track 3: Applied AI and Computing for Smart, Inclusive, and Sustainable Society
+This track welcomes artificial intelligence, computing, and information technology applications that address practical challenges and contribute to sustainable development, industrial advancement, public welfare, and societal transformation.
+
+
+Topics include, but are not limited to:
+* AI and digital health
+* Healthcare information systems
+* Smart cities and smart communities
+* Digital government and public services
+* Smart education and intelligent learning environments
+* Industrial AI and smart manufacturing
+* Agriculture and environmental informatics
+* Financial technology and digital business
+* E-commerce and intelligent service platforms
+* Logistics and supply-chain technologies
+* Intelligent transportation and mobility systems
+* Disaster management and emergency systems
+* Tourism and cultural heritage technologies
+* Assistive and inclusive technologies
+* Community-based digital innovation
+* Green computing and sustainable technologies
+* Artificial intelligence for the Sustainable Development Goals
+* Responsible deployment of AI in society
+
+
+SUBMISSION
+
+
+Important Dates
+
+
+Paper submission due
+
+
+	:
+	October 30, 2026
+	Notification to authors
+	:
+	December  30, 2026
+	Camera-ready papers due
+
+
+	:
+	February 10, 2027
+	Presenters and participation registration due
+
+
+	:
+	February 20, 2026
+	Conference sessions
+
+
+	:
+	July 28-29, 2027
+	
+
+
+
+
+
+Instruction
+•    All submitted papers should go through an initial screening process by the ICOMIT-2027 chair to weed out papers which are not suitable for the conference scope or have different focus, papers which are marginal, weak papers (not much contribution), written with low quality of English and etc. 
+•    All the submitted papers will be screened for plagiarism using the latest technology. We make sure that the submitted papers contain original materials. The maximum content of similarity is 20%, based on i-Thenticate plagiarism checking result.
+•    Before final acceptance, all Technical Program Committee members’ comments and suggestions must be considered.
+•    All conditional accepted papers must be resubmitted through the electronic submission system.
+•    Final acceptance decisions will be made by the chairs by checking the revised version.
+•    The author-accepted manuscript must commit to register and pay the conference fee. 
+•    The author-accepted manuscript must certify that the article does not contain content that is against the law. The use of licensed data, software, images, video, and other materials has been licensed by the authorities.
+•    The author-accepted manuscript must state that all the information She/He has supplied and mentioned is correct. When the information found is incorrect, She/He is willing to accept the risk and account for it in accordance with applicable law.
+
+
+Author Guidelines
+
+
+Papers submitted to ICOMIT 2027 must follow guidelines set by Springer Proceedings. The detailed guideline is available at https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v17
+
+
+Submit Your Paper
+
+
+Authors are invited to submit original, unpublished manuscripts that are not under consideration by any other publication. All submissions must be prepared using the Proceedings format and comply with the Publisher Editor Policies.
+
+
+Manuscript Length
+
+
+Full Papers: 15 pages
+Short Papers: 10 pages
+All submissions undergo a Single-blind peer review by at least three independent reviewers based on originality, technical quality, significance, and relevance to the conference scope.
+
+
+Accepted papers will be published in the ICOMIT-2027 proceedings, subject to Publisher’s publication requirements.
+
+
+At least one author of each accepted paper must register and present the paper at the conference.
+
+
+Failure to present the paper may result in its exclusion from the proceedings.
+
+
+ 
+We use EDAS for manuscript submission and review management. To submit your paper, please click the image below to access the submission system.
+
+
+PROGRAM
+
+
+Keynote Talks
+
+
+Speaker 1 
+Affiliation: 
+Topic: 
+
+
+Speaker 2 
+Affiliation: 
+Recognition: 
+Topic: 
+
+
+Speaker 3 
+Affiliation: 
+Recognition: 
+Topic: 
+
+
+
+
+
+
+Program Book
+
+
+Schedule At a Glance
+
+
+* The full version will be available on Month XX, 2026/7and the below schedule briefly is given for your reference.
+
+
+Day 1 | Day | Month XX, 2026/7
+	Time (GMT+8)
+	Session
+	Meeting Info
+	08:00-08:30
+	Registration
+	
+
+	08:30-09:00
+	Morning tea and networking
+	
+
+	09:00-09:15
+	Opening Speech
+	
+
+	09:15-10:00
+	Keynote Speech 1
+	
+
+	10:00-10:45
+	Keynote Speech 2
+	
+
+	10:45-11:00
+	Q&A Session 1
+	
+
+	11:00-11.30
+	Refreshment
+	
+
+	11:30-13.00
+	Parallel Session 1
+	
+
+	13:00-14:30
+	Break
+	
+
+	14:30-15:30
+	Parallel Session 2
+	
+
+	15.30-16.00
+	Refreshment
+	
+
+	16.00-17:00
+	Parallel Session 3
+	
+
+	17:00-19:00
+	Working Session for Committee
+	
+
+	
+
+Day 2 | Day | Month XX, 2026/7
+	Time (GMT+8)
+	Session
+	Meeting Info
+	08:00-08:30
+	Registration
+	
+
+	08:30-09:00
+	Morning tea and networking
+	
+
+	09:00-09:15
+	Briefing about paper publication
+	
+
+	09:15-10:00
+	Keynote Speech 3
+	
+
+	10:00-10:45
+	Keynote Speech 4
+	
+
+	10:45-11:00
+	Q&A Session 2
+	
+
+	11:00-11.30
+	Refreshment
+	
+
+	11:30-13.00
+	Parallel Session 4
+	
+
+	13:00-14:30
+	Break
+	
+
+	14:30-15:30
+	Parallel Session 5
+	
+
+	15.30-16.00
+	Refreshment
+	
+
+	16.00-17:00
+	Parallel Session 6
+	
+
+	17:00
+	Closing and best papers announcement
+	
+
+	
+
+
+
+
+
+REGISTRATION
+
+
+Physical Registration 
+In Person Conference ICOMIT-2027 fees are as follows:
+Category
+	Early Bird
+	Normal
+	Presenter (per person) 
+	250 USD
+	350 USD
+	Participant (per person)
+	50 USD
+	100 USD
+	Additional Paper (per-paper)
+	150 USD
+	 
+Virtual Registration 
+
+
+In the case of the ICOMIT-2027 Virtual registration.
+Category
+	Early Bird
+	Normal
+	Presenter (per person) 
+	200 USD
+	300USD
+	Participant (per person)
+	25 USD
+	50 USD
+	
+
+	Additional Paper (per-paper)
+	150 USD
+	
+
+
+
+Payment Method
+
+
+
+
+Invitation Letter
+
+
+
+
+PUBLICATIONS
+
+
+Proceeding
+
+
+All submitted manuscripts will undergo a rigorous double-blind peer-review process conducted by at least three independent expert reviewers. Each submission will be evaluated based on the following criteria:
+
+
+* Originality and novelty
+* Scientific and technical quality
+* Significance and relevance to the conference themes
+* Methodological soundness
+* Clarity of presentation and overall quality
+
+
+To maintain a high standard of scholarly excellence, no more than 50% of the submitted full papers (including those submitted to the main conference and special sessions/workshops) will be accepted for presentation and publication.
+
+
+Accepted papers will be published in the conference proceedings with a renowned international publisher (publication proposal currently under evaluation). The proceedings will be submitted for indexing and abstracting by major international scientific databases, subject to the publisher's and indexing services' evaluation policies. Each published paper will include:
+
+
+* A Digital Object Identifier (DOI)
+* Linked references
+* XML metadata
+* Permanent citation information
+
+
+
+
+
+
+VENUE
+
+
+Conference Location
+The ICOMIT-2027 venue is:
+
+Faculty of Computer Science (FILKOM)
+Universitas Brawijaya
+Jl. Veteran, Ketawanggede, Lowokwaru
+Malang City, East Java, 65145
+INDONESIA
+ 
+Attraction
+
+
+
+
+PRESENTATION GUIDELINES
+
+
+
+
+
+
+TARGET OF PAPERS
+The organizers expect to receive minimum 100 papers submission from researchers / academia / practitioners from Indonesia, Malaysia and other countries. 
+
+
+
+
+PROCEEDING EDITORS
+
+
+Name: 
+Affiliation: 
+Email: 
+
+
+Name: 
+Affiliation: 
+Email: 
+
+
+Name: 
+Affiliation: 
+Email: 
+
+
+Name: 
+Affiliation: 
+Email: 
+
+
+
+
+
+
+ORGANIZER
+
+
+The Conference is organized in cooperation with: Faculty of Computer Science, Universitas Brawijaya, INDONESIA
+
+
+CONTACT
+
+
+General Chairs
+Diva Kurnianingtyas, Universitas Brawijaya, INDONESIA
+Email: divaku@ub.ac.id
+
+
+Lailil Muflikhah, Universitas Brawijaya, INDONESIA
+Email: lailil@ub.ac.id
+
+
+General Secretariat
+For all matters related to ICOMIT 2027, you can reach us at:
+
+
+Badan Penerbit Jurnal (BPJ)
+Faculty of Computer Science
+Universitas Brawijaya
+Malang City, East Java, Indonesia
+Email: icomit@ub.ac.id
